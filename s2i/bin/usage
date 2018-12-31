@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cat <<DELIM
+This will contain usage information
+DELIM
